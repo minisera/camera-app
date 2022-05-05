@@ -440,6 +440,7 @@
 				DEVELOPMENT_TEAM = LRYV5HS7HL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = camera/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "カメラにアクセスする";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -450,7 +451,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.camera;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FirstCamera;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -468,6 +469,7 @@
 				DEVELOPMENT_TEAM = LRYV5HS7HL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = camera/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "カメラにアクセスする";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -478,7 +480,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.camera;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FirstCamera;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
